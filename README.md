@@ -53,3 +53,13 @@ Terms of participation:
  * Ideas and a brief description of the proposal will be kept on GitHub in a public repository.
 
 Implementation of specific guidelines can and should be debated as the meetings grow and develop.
+
+### Proposing an Idea
+
+To propose an idea, [raise an issue](https://github.com/gfeiden/Freethought-Friday/issues) within this repository or email one of the organizers.
+
+### Repository of Ideas
+
+All ideas will be stored on [GitHub in a public repository](https://github.com/gfeiden/Freethough-Friday/). 
+New ideas can be registered on this archive by [raising an issue](https://github.com/gfeiden/Freethought-Friday/issues). 
+We can explore the possibility of registering ideas with the [Journal of Brief Ideas](http://beta.briefideas.org/) to archive and make citeable each idea via Zenodo.
