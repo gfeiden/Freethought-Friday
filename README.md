@@ -4,9 +4,9 @@
 > If he holds them because his elders told him they were true when he was young, or if he holds them because if he did not he would be unhappy, his thought is not free; but if he holds them because, after careful thought, he finds a balance of evidence in their favor, then his thought is free, however odd his conclusions may seem. 
 > <br/><br/> &mdash; _Bertrand Russell in "The Value of Free Thought" (1944)_
 
-### What is Freethrough Friday?
+### What is Freethought Friday?
 
-Freethough Friday is a weekly gathering of scientists, driven by curiosity, who wish to explore open questions that may or may not produce tangible results in the near future. 
+Freethought Friday is a weekly gathering of scientists, driven by curiosity, who wish to explore open questions that may or may not produce tangible results in the near future. 
 
 
 ### Who May Attend?
